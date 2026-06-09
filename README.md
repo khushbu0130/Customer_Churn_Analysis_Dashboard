@@ -163,6 +163,6 @@ This project is created for learning and portfolio purposes to demonstrate data 
 
 ## 📬 Contact
 
-**Hardik Thakur**
-📧 Email: [hardikthakur8953@gmail.com](mailto:hardikthakur8953@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/hardikthakur04/
+**Khushbu Kumari**
+📧 Email: [khushbukri8978@gmail.com](mailto:khushbukri8978@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/khushbukumari3004/
