@@ -128,7 +128,7 @@ Enables dynamic filtering and deeper analysis
 ---
 
 ## Screenshots
-![Customer Churn Dashboard](https://github.com/HardikThakur04/Customer_Churn_Analysis_Dashboard/blob/main/Dashboard_Snapshot.jpg)
+![Customer Churn Dashboard](https://github.com/khushbu0130/Customer_Churn_Analysis_Dashboard/blob/2515d53780fc262f1236a789c69e3fbc0be0100f/Dashboard_Snapshot.jpg)
 
 https://github.com/user-attachments/assets/14ca1674-a4f1-4cf7-b963-198da53a9b45
 
